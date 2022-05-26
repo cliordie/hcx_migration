@@ -1,0 +1,7 @@
+VMName,TEST_Prod,MigrationDate,MigrationTime
+ServerName1,PROD,11/10/2020,12:00:00 AM
+ServerName2,TEST,11/10/2020,12:00:00 AM
+ServerName3,PROD,11/13/2020,4:00:00 PM
+ServerName4,PROD,11/14/2020,9:00:00 PM
+ServerName5,Test,11/13/2020,4:00:00 PM
+
