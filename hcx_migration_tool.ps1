@@ -5,7 +5,7 @@ Import-Module VMware.PowerCLI
 
 ## Global Variables
 
-$domain = "chp.clarian.org"
+$domain = "hospital.org"
 $vcenters = @("sourcevcenter1.hospital.org", "sourcevcenter2.hospital.org","destvcenter1.hospital.org","destvcenter2.hospital.org")
 # Migration Window in Hours
 $migwindow = 8
